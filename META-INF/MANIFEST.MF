@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ apache-poi.jar apache-poi-examples.jar apache-poi-
+ excelant.jar apache-poi-ooxml.jar apache-poi-ooxml-schemas.jar apache
+ -poi-scratchpad.jar poi.jar poi-ooxml.jar poi-excelant.jar poi-ooxml-
+ schemas.jar poi-scratchpad.jar poi-examples.jar xbean.jar xbean_xpath
+ .jar xmlpublic.jar
+Rsrc-Main-Class: com.datum.article.ArticleClassClient
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+

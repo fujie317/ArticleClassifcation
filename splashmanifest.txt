@@ -1,0 +1,4 @@
+Main-Class: com.datum.article.ArticleClassClient
+SplashScreen-Image: images/splash.gif
+Class-Path: . lib/apache-poi-examples.jar lib/apache-poi-ooxml.jar lib/poi-examples.jar lib/poi-ooxml.jar lib/xbean.jar lib/apache-poi-excelant.jar  lib/apache-poi-ooxml-schemas.jar lib/poi-excelant.jar lib/poi-ooxml-schemas.jar lib/xbean_xpath.jar lib/apache-poi.jar lib/apache-poi-scratchpad.jar lib/poi.jar lib/poi-scratchpad.jar lib/xmlpublic.jar
+

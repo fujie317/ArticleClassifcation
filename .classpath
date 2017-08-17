@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi-examples.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi-excelant.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi-ooxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi-ooxml-schemas.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/apache-poi-scratchpad.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi-ooxml.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi-excelant.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi-ooxml-schemas.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi-scratchpad.jar"/>
+	<classpathentry exported="true" kind="lib" path="/usr/share/java/poi/poi-examples.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/usr/share/java/xmlbeans/xbean.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/xmlbeans/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/xmlbeans/xmlpublic.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
